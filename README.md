@@ -50,6 +50,8 @@ docker run -d --name=netdata \
 Open your browser:
 http://localhost:19999 (or replace localhost with your server IP)
 
+---
+
 3️⃣ Monitor Metrics
 System Overview: CPU, RAM, Disk, Network stats
 
@@ -69,7 +71,9 @@ Disks I/O & Filesystem
 Health & Alarms	
 Netdata Logs	
 
+---
 📊 Outcome
+
 By completing this setup, I gained:
 
 Hands-on experience in lightweight monitoring for servers and applications
@@ -78,7 +82,9 @@ Skills in Dockerized deployment and resource visualization
 
 Knowledge of alert systems for proactive troubleshooting
 
+---
 🧠 Key Learnings
+
 Importance of real-time monitoring for performance optimization
 
 How containerized observability improves maintainability
